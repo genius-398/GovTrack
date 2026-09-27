@@ -1,0 +1,6 @@
+{
+  "name": "GovTrack - Real-Time Government Document Processing & Tracking System",
+  "description": "Digital public service platform for citizens to request official documents and track real-time milestone progress from verification to dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
